@@ -15,4 +15,4 @@ carcass parts of an infected animal or infected soil. Prions are extremely resis
 
 I was curious what counties were hit the hardest by CWD and wanted to plot it out and see the data.
 
-![alt text](https://imgur.com/a/cmshefA)
+https://imgur.com/a/cmshefA
