@@ -2,7 +2,7 @@
 
 
 
-From Michigan DNR;
+From Michigan DNR;  
   "Baiting and feeding is prohibited in the entire Lower Peninsula and in the core CWD surveillance area in the Upper Peninsula.
   
 Chronic wasting disease is a contagious, neurological disease that affects deer, elk and moose. It causes a degeneration of the brain,  
