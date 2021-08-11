@@ -11,6 +11,6 @@ there is no recovery or cure. To date, there is no evidence that CWD can be natu
 
 I was curious what counties were hit the hardest by CWD and wanted to plot it out and see the data.
 
-[![Positive-CWD.jpg](https://i.postimg.cc/V6Y1M4MZ/Positive-CWD.jpg)](https://postimg.cc/4KFrR6Wp)  
+[![Tested-CWD.jpg](https://i.postimg.cc/VLSwjJrw/Tested-CWD.jpg)](https://postimg.cc/SJpH4Nf1)
 
-[![Tested-CWD.jpg](https://i.postimg.cc/qqqTDR18/Tested-CWD.jpg)](https://postimg.cc/R6kyNM5F)
+[![Positive-CWD.jpg](https://i.postimg.cc/PqMntZcW/Positive-CWD.jpg)](https://postimg.cc/zL3c7Lqv)
