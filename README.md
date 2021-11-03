@@ -17,4 +17,4 @@ I was curious what counties were hit the hardest by CWD and wanted to plot it ou
 
 [![Positive-CWD.jpg](https://i.postimg.cc/PqMntZcW/Positive-CWD.jpg)](https://postimg.cc/zL3c7Lqv)
 
-[Tested vs Positive](https://user-images.githubusercontent.com/81124911/139970239-54428f94-6f0e-4b24-a42e-817dad988de6.png)
+![Tested vs Positive](https://user-images.githubusercontent.com/81124911/139970239-54428f94-6f0e-4b24-a42e-817dad988de6.png)
