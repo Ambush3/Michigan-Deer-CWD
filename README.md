@@ -21,3 +21,4 @@ I was curious what counties were hit the hardest by CWD and wanted to plot it ou
 
 ![image](https://user-images.githubusercontent.com/81124911/139970352-bf744c6a-d6d1-4cb5-85a9-a724beace4b0.png)
 
+![image2](https://user-images.githubusercontent.com/81124911/139970393-9454a66f-fd92-4432-a0a8-9f2ad704183c.png)
